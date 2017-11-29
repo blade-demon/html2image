@@ -7,6 +7,9 @@
   - bundle.js browserify将index.js转译后的文件
 
 # 编辑运行
-  - 安装browserify:  `npm i -g browserify`
-  - 运行：browserify  `index.js -o bundle.js`
+  - 安装browserify:  
+    `npm i -g browserify`
+  - 运行：browserify  
+    `index.js -o bundle.js`
+  - 刷新index.html
   
